@@ -1,6 +1,6 @@
 # Custom item to activate the Twilight Forest portal
 ### To make the portal to the Twilight Forest open with an item other than a diamond, follow the instructions:
-- Download the archive.
+- [Download the archive.](https://github.com/SkylightProduction/Custom-item-to-activate-the-Twilight-Forest-portal/releases/tag/CITATTFP)
 - Open the archive.
 - Go to: data/twilightforest/tags/items/portal.
 - Open activator.json file.
